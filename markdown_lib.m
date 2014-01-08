@@ -46,7 +46,7 @@ static NSMutableString *preformat_text(NSString *text) {
         if (charstotab == 0)
             charstotab = TABSTOP;
     }
-    [buf appendString:@"\n\n"];
+    [buf appendString:@"\n"];
     return(buf);
 }
 
