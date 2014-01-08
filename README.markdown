@@ -43,7 +43,7 @@ Check out the HelloMarkdown example app to see it in action.
 A Cocoapod Podspec file has been added that will allow you to do a pod install to get up and running quickly. Eventually we'll post it to the cocoapods repo. For now, here's what your podfile should look like:
 
     platform :ios
-    pod 'AttributedMarkdown', :git => 'https://github.com/dreamwieber/AttributedMarkdown.git'
+    pod 'AttributedMarkdown', :git => 'https://github.com/AlexQuinlivan/AttributedMarkdown.git'
     
 (The HelloMarkdown project hasn't been updated or tested against a cocoapod install. If you find any issues please let us know. This should work fine for your new project though.) 
 
